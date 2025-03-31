@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      yellow lego square_0: 7143557563092660999
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
