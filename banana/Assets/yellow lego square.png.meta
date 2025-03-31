@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: caca6c32697af426ba8435138271c640
+guid: edb4351121d266745bd13cfc6dd823c4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6981827254641702772
-    second: cloud_0
+      213: 7143557563092660999
+    second: yellow lego square_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cloud_0
+      name: yellow lego square_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 964
-        height: 400
+        x: 380
+        y: 250
+        width: 748
+        height: 544
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c88c0fb6a119b1f90800000000000000
-      internalID: -6981827254641702772
+      spriteID: 70371b461c3032360800000000000000
+      internalID: 7143557563092660999
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      cloud_0: -6981827254641702772
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
