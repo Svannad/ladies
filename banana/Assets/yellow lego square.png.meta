@@ -120,8 +120,8 @@ TextureImporter:
         y: 250
         width: 748
         height: 544
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.30943322, y: 0.95351195}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9b489267b45d92a4fb11c1edf19cfd6c
     internalID: 0
     vertices: []
     indices: 
@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      yellow lego square_0: 7143557563092660999
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
