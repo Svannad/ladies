@@ -1,25 +1,31 @@
 fileFormatVersion: 2
-guid: 8e7b676540ee3462e8b5ad8480cd360d
+guid: 0634f49e48443455daec59ad9e99170e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5064401156898091283
-    second: bird_0
+      213: 6530179738444782934
+    second: sheet_0
   - first:
-      213: -7518524041257459519
-    second: bird_1
+      213: 613435604629981061
+    second: sheet_1
   - first:
-      213: -6583155732020471796
-    second: bird_2
+      213: -3656531271222932061
+    second: sheet_2
   - first:
-      213: 1200535085910493761
-    second: bird_3
+      213: 3930011312167392660
+    second: sheet_3
   - first:
-      213: 5257829688914787120
-    second: bird_4
+      213: -96796154962138083
+    second: sheet_4
   - first:
-      213: -7302643359093655801
-    second: bird_5
+      213: -7054820123952135176
+    second: sheet_5
+  - first:
+      213: 4530623484691778272
+    second: sheet_6
+  - first:
+      213: -5581956015464806101
+    second: sheet_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,133 +121,177 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bird_0
+      name: sheet_0
       rect:
         serializedVersion: 2
-        x: 191
-        y: 299
-        width: 818
-        height: 554
-      alignment: 9
-      pivot: {x: 0.1071095, y: 0.52082455}
+        x: 0
+        y: 154
+        width: 221
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dee030beaf1a7b9b0800000000000000
-      internalID: -5064401156898091283
+      spriteID: a97242b804d2f4bfebbdc5c0469a4e29
+      internalID: -2135730016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_1
+      name: sheet_1
       rect:
         serializedVersion: 2
-        x: 395
-        y: 251
-        width: 14
-        height: 14
+        x: 221
+        y: 154
+        width: 221
+        height: 154
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1c06d952836d8a790800000000000000
-      internalID: -7518524041257459519
+      spriteID: 4117c4c3a886b47ca82c12cafc5a8ea0
+      internalID: -1354770365
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_2
+      name: sheet_2
       rect:
         serializedVersion: 2
-        x: 839
-        y: 263
-        width: 14
-        height: 14
+        x: 442
+        y: 154
+        width: 221
+        height: 154
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c08d7d3adbee3a4a0800000000000000
-      internalID: -6583155732020471796
+      spriteID: 5ba37dbf709574ae28904b81e0fbee50
+      internalID: 1957471362
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_3
+      name: sheet_3
       rect:
         serializedVersion: 2
-        x: 995
-        y: 239
-        width: 26
-        height: 26
+        x: 663
+        y: 154
+        width: 221
+        height: 154
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 14a8618cc4829a010800000000000000
-      internalID: 1200535085910493761
+      spriteID: 0544f209c48604be1a077935dadaee49
+      internalID: -225935484
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_4
+      name: sheet_4
       rect:
         serializedVersion: 2
-        x: 959
-        y: 239
-        width: 14
-        height: 14
+        x: 884
+        y: 154
+        width: 221
+        height: 154
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 03bb441be3097f840800000000000000
-      internalID: 5257829688914787120
+      spriteID: ff1337607a41243b09e78913cbb3652e
+      internalID: -1550942216
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_5
+      name: sheet_5
       rect:
         serializedVersion: 2
-        x: 503
-        y: 191
-        width: 14
-        height: 14
+        x: 0
+        y: 0
+        width: 221
+        height: 154
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7077bd35e8cc7aa90800000000000000
-      internalID: -7302643359093655801
+      spriteID: 41d131ee3c68343e58cbd244566707ef
+      internalID: 1028360931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 221
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919dd6c9054104ddcb3de91f3603846e
+      internalID: -274665174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 221
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44aa4ebca6d00441589c0dfacb254055
+      internalID: 2084431643
       vertices: []
       indices: 
       edges: []
@@ -250,7 +300,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 8a758d7baa84e46e9af4fdca2fa0ba7b
+    spriteID: 4bd60984026c140a8b01ec6b6fb13ded
     internalID: 0
     vertices: []
     indices: 
@@ -260,12 +310,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bird_0: -5064401156898091283
-      bird_1: -7518524041257459519
-      bird_2: -6583155732020471796
-      bird_3: 1200535085910493761
-      bird_4: 5257829688914787120
-      bird_5: -7302643359093655801
+      sheet_0: -2135730016
+      sheet_1: -1354770365
+      sheet_2: 1957471362
+      sheet_3: -225935484
+      sheet_4: -1550942216
+      sheet_5: 1028360931
+      sheet_6: -274665174
+      sheet_7: 2084431643
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
